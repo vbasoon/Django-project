@@ -1,3 +1,4 @@
 ENV
 .idea
 *.pyc
+db.sqlite3
